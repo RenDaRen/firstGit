@@ -6,3 +6,4 @@ $str = "我"; // 三个长度
 $str = preg_replace($pattern, "", '‎');
 
 var_dump($str); // 0长度
+echo 1;
