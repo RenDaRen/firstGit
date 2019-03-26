@@ -8,4 +8,5 @@ $str = preg_replace($pattern, "", '‎');
 var_dump($str); // 0长度
 echo 1;
 
-echo '不需要版本，已经提交了'
+echo '不需要版本，已经提交了';
+echo 2;
